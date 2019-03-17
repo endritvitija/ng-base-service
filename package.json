@@ -1,0 +1,28 @@
+{
+  "name": "ng-base-service",
+  "version": "0.0.4",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "Service",
+    "Generic"
+  ],
+  "author": "Endrit Vitija",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endritvitija/ng-base-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/endritvitija/ng-base-service/issues"
+  },
+  "homepage": "https://github.com/endritvitija/ng-base-service#readme"
+}
