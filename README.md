@@ -21,8 +21,8 @@ There is no additional configuration needed!
 | getById(id: any)                  | This method get items by id             |
 | getAll()                          | This method get all items               |
 | add(context: TEntity)             | This method add or create new items     |
-| update(id: any, context: TEntity) | This method edit or update existin item |
-| delete(id: any)                   | This method delete existin item         |
+| update(id: any, context: TEntity) | This method edit or update existing item |
+| delete(id: any)                   | This method delete existing item         |
 
 # Usage
 
